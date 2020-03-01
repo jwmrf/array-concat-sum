@@ -16,5 +16,13 @@
     "join",
     "multi",
     "fusion"
-  ]
+  ] ,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwmrf/array-concat-sum.git"
+  },
+"bugs": {
+"url": "https://github.com/jwmrf/array-concat-sum/issues"
+},
+"homepage": "https://github.com/jwmrf/array-concat-sum#readme"
 }
