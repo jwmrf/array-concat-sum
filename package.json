@@ -1,0 +1,20 @@
+{
+  "name": "array-concat-sum",
+  "version": "1.0.0",
+  "description": "Concat number values of two arrays for the position, ignoring null ou invalid values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wilson Filho",
+  "license": "MIT",
+  "keywords": [
+    "array",
+    "concat",
+    "sum",
+    "position",
+    "join",
+    "multi",
+    "fusion"
+  ]
+}
